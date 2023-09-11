@@ -1,5 +1,5 @@
 import { useSearchParams } from "react-router-dom";
-import { Card } from "../components/Card"
+import { Card } from "../components/Card";
 import { UseFetch, UseTitle } from "../hooks";
 export const Search = ({ apiPath }) => {
   const [searchParams] = useSearchParams();

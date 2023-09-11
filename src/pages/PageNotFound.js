@@ -1,5 +1,5 @@
-import PageNotFoundImage from "../assets/images/pagenotfound.png"
 import { Link } from "react-router-dom";
+import PageNotFoundImage from "../assets/images/pagenotfound.png";
 import { Button } from "../components";
 import { UseTitle } from "../hooks";
 export const PageNotFound = () => {

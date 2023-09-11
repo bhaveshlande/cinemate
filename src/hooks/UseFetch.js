@@ -1,4 +1,4 @@
-import { useEffect, useState } from 'react'
+import { useEffect, useState } from 'react';
 
 export const UseFetch = (apiPath, queryTerm = "") => {
     const [data, setData] = useState([]);
@@ -11,6 +11,5 @@ export const UseFetch = (apiPath, queryTerm = "") => {
         };
         fetchMovies();
     }, [url]);
-
     return { data }
 }
