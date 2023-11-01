@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/cinemate/static/css/main.a5ff1cfa.css",
+    "main.js": "/cinemate/static/js/main.66cdb69a.js",
+    "static/media/backup.png": "/cinemate/static/media/backup.4618793166f39aa1ff3d.png",
+    "static/media/pagenotfound.png": "/cinemate/static/media/pagenotfound.28f3aa27eae97df57582.png",
+    "static/media/logo.png": "/cinemate/static/media/logo.729fe42e7d23a7906fd5.png",
+    "index.html": "/cinemate/index.html",
+    "main.a5ff1cfa.css.map": "/cinemate/static/css/main.a5ff1cfa.css.map",
+    "main.66cdb69a.js.map": "/cinemate/static/js/main.66cdb69a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a5ff1cfa.css",
+    "static/js/main.66cdb69a.js"
+  ]
+}
